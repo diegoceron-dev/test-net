@@ -1,0 +1,7 @@
+C:\Users\diego\source\test_diegoceron\2_depositos\depositosBancarios\depositosBancarios\bin\Debug\depositosBancarios.exe.config
+C:\Users\diego\source\test_diegoceron\2_depositos\depositosBancarios\depositosBancarios\bin\Debug\depositosBancarios.exe
+C:\Users\diego\source\test_diegoceron\2_depositos\depositosBancarios\depositosBancarios\bin\Debug\depositosBancarios.pdb
+C:\Users\diego\source\test_diegoceron\2_depositos\depositosBancarios\depositosBancarios\obj\Debug\depositosBancarios.csproj.AssemblyReference.cache
+C:\Users\diego\source\test_diegoceron\2_depositos\depositosBancarios\depositosBancarios\obj\Debug\depositosBancarios.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\test_diegoceron\2_depositos\depositosBancarios\depositosBancarios\obj\Debug\depositosBancarios.exe
+C:\Users\diego\source\test_diegoceron\2_depositos\depositosBancarios\depositosBancarios\obj\Debug\depositosBancarios.pdb

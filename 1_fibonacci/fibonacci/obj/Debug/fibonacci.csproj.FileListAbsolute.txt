@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\fibonacci\fibonacci\bin\Debug\fibonacci.exe.config
+C:\Users\diego\source\repos\fibonacci\fibonacci\bin\Debug\fibonacci.exe
+C:\Users\diego\source\repos\fibonacci\fibonacci\bin\Debug\fibonacci.pdb
+C:\Users\diego\source\repos\fibonacci\fibonacci\obj\Debug\fibonacci.exe
+C:\Users\diego\source\repos\fibonacci\fibonacci\obj\Debug\fibonacci.pdb
+C:\Users\diego\source\test_diegoceron\1_fibonacci\fibonacci\bin\Debug\fibonacci.exe.config
+C:\Users\diego\source\test_diegoceron\1_fibonacci\fibonacci\bin\Debug\fibonacci.exe
+C:\Users\diego\source\test_diegoceron\1_fibonacci\fibonacci\bin\Debug\fibonacci.pdb
+C:\Users\diego\source\test_diegoceron\1_fibonacci\fibonacci\obj\Debug\fibonacci.csproj.AssemblyReference.cache
+C:\Users\diego\source\test_diegoceron\1_fibonacci\fibonacci\obj\Debug\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\test_diegoceron\1_fibonacci\fibonacci\obj\Debug\fibonacci.exe
+C:\Users\diego\source\test_diegoceron\1_fibonacci\fibonacci\obj\Debug\fibonacci.pdb

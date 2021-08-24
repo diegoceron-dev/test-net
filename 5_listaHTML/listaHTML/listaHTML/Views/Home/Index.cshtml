@@ -1,0 +1,47 @@
+﻿@using listaHTML.Models;
+
+@{
+    ViewBag.Title = "Lista HTML";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1>@ViewBag.Title</h1>
+
+        <script>
+           function LlamarJsonDelServidor(){
+            $.ajax({
+                type: "POST",
+                traditional: true,
+                async: false,
+                cache: false,
+                url: '@Url.Action("LlamarJson","Home")',
+                context: document.body,
+                data: { },
+                success: function (result) {
+                    $("#resultado").html('');
+                    for (var i = 0; i < result.length; i++) {
+                        $("#resultado").append("<li class='EstiloBAMSA'> "+result[i].Nombre+ " " + result[i].Apellido +" </li>");
+                    }
+                },
+                error: function (xhr) {
+                    //debugger;
+                    console.log(xhr.responseText);
+                    alert("Error has occurred..");
+                }
+            });
+        }
+        </script>
+        <style>
+            .EstiloBAMSA {
+                border-color: #E6E6E6;
+                border-width: 1px;
+                border-style: solid;
+            }
+        </style>
+        <input type="button" onclick="LlamarJsonDelServidor();" value="Mostrar datos" />
+        <br />
+        <div id="resultado"></div>
+    </div>
+</div>
+
